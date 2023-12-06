@@ -1,0 +1,15 @@
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\obj\Debug\net8.0\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\obj\Debug\net8.0\Zadanie2.AssemblyInfoInputs.cache
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\obj\Debug\net8.0\Zadanie2.AssemblyInfo.cs
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\obj\Debug\net8.0\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\obj\Debug\net8.0\Zadanie2.sourcelink.json
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\bin\Debug\net8.0\Zadanie2.exe
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\bin\Debug\net8.0\Zadanie2.deps.json
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\bin\Debug\net8.0\Zadanie2.runtimeconfig.json
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\bin\Debug\net8.0\Zadanie2.dll
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\bin\Debug\net8.0\Zadanie2.pdb
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\obj\Debug\net8.0\Zadanie2.dll
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\obj\Debug\net8.0\refint\Zadanie2.dll
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\obj\Debug\net8.0\Zadanie2.pdb
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\obj\Debug\net8.0\Zadanie2.genruntimeconfig.cache
+C:\Users\creep\OneDrive\Рабочий стол\Новая папка\Yrok5\Zadanie2\obj\Debug\net8.0\ref\Zadanie2.dll
